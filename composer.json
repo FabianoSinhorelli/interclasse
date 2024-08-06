@@ -1,0 +1,13 @@
+{
+    "name": "proj/interclasse",
+    "description": "Sistema de Gestão de Torneio Estudantil",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabiano Sinhorelli",
+            "email": "fabianosinhorelli@gmail.com"
+        }
+    ],
+    "require": {}
+}

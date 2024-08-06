@@ -1,0 +1,9 @@
+.htaccess
+.idea/
+.well-known/
+cgi-bin/
+enviroment/
+ava/
+src/constants.php
+resources/assets/img/
+/vendor/
